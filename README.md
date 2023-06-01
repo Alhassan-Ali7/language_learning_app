@@ -1,6 +1,6 @@
 # language_learning_app
 
-A new Flutter project.
+A flutter program to learn japanese to english examples with sounds
 
 ## Getting Started
 
